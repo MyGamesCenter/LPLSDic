@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FFD4C95AAFCD4F02B07D2F5A361B2042E4317BE8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "96E204F32A0761C4C672019FC5E3E2530482D0A1" : 0,
+    "FFD4C95AAFCD4F02B07D2F5A361B2042E4317BE8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "479EA71A-5F9C-4209-9175-B2E882178AD7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "96E204F32A0761C4C672019FC5E3E2530482D0A1" : "..\/DL\/Finally",
+    "FFD4C95AAFCD4F02B07D2F5A361B2042E4317BE8" : "LPLSDic\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "乐搜",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "乐搜.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/lanoudl\/DLS140512Team08.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96E204F32A0761C4C672019FC5E3E2530482D0A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ioslipan\/LPLSDic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFD4C95AAFCD4F02B07D2F5A361B2042E4317BE8"
+    }
+  ]
+}
